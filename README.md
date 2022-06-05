@@ -3,7 +3,7 @@
 ## Getting started
 Add this script line in your head
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Raaptex/jsu/src/jsu.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Raaptex/jsu@v0.1.2-beta/src/jsu.js"></script>
 ```
 Includes any all the modules you want and execute your scripts
 ```html
