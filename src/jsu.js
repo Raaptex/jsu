@@ -1,8 +1,8 @@
 console.log("JSU Loaded")
 
 files = {
-    "keyboard": "../../src/keyboard.js",
-    "sprite": "../../src/sprite.js"
+    "keyboard": "https://raw.githubusercontent.com/Raaptex/jsu/main/src/keyboard.js",
+    "sprite": "https://raw.githubusercontent.com/Raaptex/jsu/main/src/sprite.js"
 }
 
 function include(file_name) {
